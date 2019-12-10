@@ -1,7 +1,4 @@
-# Bind9
-#
-#
-#
+
 FROM debian:jessie
 
 MAINTAINER Fernando Ike de Oliveira <fike@midstorm.org>
